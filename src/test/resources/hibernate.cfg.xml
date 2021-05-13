@@ -30,5 +30,6 @@
         <!-- Names the annotated entity class -->
         <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.configuration.Event"/>
         <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.transaction.Note"/>
+        <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.entity.model.Animal"/>
     </session-factory>
 </hibernate-configuration>
