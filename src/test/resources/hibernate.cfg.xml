@@ -34,5 +34,6 @@
         <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.entity.inheritance.Banana"/>
         <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.entity.inheritance.Vegetable"/>
         <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.entity.id.embedded.Movie"/>
+        <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.entity.id.clazz.Vehicle"/>
     </session-factory>
 </hibernate-configuration>
