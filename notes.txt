@@ -1,0 +1,6 @@
+https://docs.jboss.org/hibernate/orm/5.4/quickstart/html_single/
+
+https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html#associations-many-to-many
+"A bidirectional @ManyToMany association has an owning and a mappedBy side.
+To preserve synchronicity between both sides, it’s good practice
+to provide helper methods for adding or removing child entities."
