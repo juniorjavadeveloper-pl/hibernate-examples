@@ -37,5 +37,7 @@
         <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.entity.id.clazz.Vehicle"/>
         <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.relationship.one_to_one.Student"/>
         <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.relationship.one_to_one.StudentBook"/>
+        <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.relationship.one_to_many.Menu"/>
+        <mapping class="pl.juniorjavadeveloper.examples.hibernate.basic.relationship.one_to_many.Item"/>
     </session-factory>
 </hibernate-configuration>
