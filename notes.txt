@@ -4,3 +4,15 @@ https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Gu
 "A bidirectional @ManyToMany association has an owning and a mappedBy side.
 To preserve synchronicity between both sides, it’s good practice
 to provide helper methods for adding or removing child entities."
+
+Topics order by package name hibernate.basic:
+1. configuration
+2. transaction
+3. entity.model
+4. entity.inheritance
+5. entity.id.embedded
+6. entity.id.clazz
+7. relationship.one_to_one
+8. relationship.one_to_many
+9. relationship.many_to_many
+10. hql
