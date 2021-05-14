@@ -11,6 +11,8 @@
     <persistence-unit name="pl.juniorjavadeveloper.examples.hibernate.basic.configuration.pu">
         <class>pl.juniorjavadeveloper.examples.hibernate.basic.configuration.Event</class>
         <class>pl.juniorjavadeveloper.examples.hibernate.basic.transaction.Note</class>
+        <class>pl.juniorjavadeveloper.examples.hibernate.basic.relationship.many_to_many.Person</class>
+        <class>pl.juniorjavadeveloper.examples.hibernate.basic.relationship.many_to_many.Address</class>
 
         <properties>
             <property name="javax.persistence.jdbc.driver" value="org.h2.Driver" />
